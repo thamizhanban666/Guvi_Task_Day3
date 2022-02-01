@@ -10,3 +10,6 @@ var resume = {
     "PERCENTAGE OF MARK IN SSLC & +2" : "97% & 87%" ,
     "PERCENTAGE OF MARK IN COLLEGE" : "80%" ,
 }
+for(var i in resume){
+    console.log(i,":  "+resume[i]);
+ }
