@@ -31,7 +31,7 @@ var arr = [
  console.log("\n");
 
  // for of :
- for(i of arr){
+ for(let i of arr){
     console.log(i["name"], i["age"]);
  }
 
