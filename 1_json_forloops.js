@@ -6,7 +6,7 @@ var arr = [
  
  // for Loop :
  for(let i=0;i<arr.length;i++){
-     console.log(arr[i]["name"], arr[i]["age"]);
+    console.log(arr[i]["name"], arr[i]["age"]);
  }
 
  var object = {
